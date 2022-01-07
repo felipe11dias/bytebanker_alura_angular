@@ -5,7 +5,7 @@ Módulo de interface para desafio NATI - [API em memória](https://github.com/ty
 
 ## Features
 - Tela de Extrato
-- Tela de Nova transferência.
+- Tela de Nova transferência
 
 ## Tecnologias utilizadas
 - [Angular 10.2.4](https://angular.io/)
