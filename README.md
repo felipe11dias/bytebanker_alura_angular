@@ -1,28 +1,23 @@
-# Bytebanker
+# Bytebanker - Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
+## Frontend
+Módulo de interface para desafio NATI - [API em memória](https://github.com/typicode/json-server)
 
-## Development server
+## Features
+- Tela de Extrato
+- Tela de Nova transferência.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Tecnologias utilizadas
+- [Angular 10.2.4](https://angular.io/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Npm](https://www.npmjs.com/)
 
-## Code scaffolding
+## Instalação
+Faça o clone do projeto no git, canto superior direito no repositório do projeto(Botão 'Code').
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Na pasta do projeto utilize do [npm](https://www.npmjs.com/) para gerenciar as dependências e rodar o projeto, siga os passos:
+- Use o comando: npm install(Baixara todas as dependências do projeto)
+- Use o comando: npm start ou ng serve(Irá iniciar o projeto, levantando a aplicação e deixando pronto para se utilizar)
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# bytebanker_alura_angular
+## Fonte de Estudo
+- Alura [Curso](https://www.alura.com.br/curso-online-angular-comecando-framework)
